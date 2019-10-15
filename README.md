@@ -1,6 +1,6 @@
 # Sparsified-dynamics modeling
 
-This is a repository containing MATLAB codes for the paper entitled, "Network-theoretic approach to sparsified discrete vortex dynamics", JFM, 2015. Please cite this work when using the codes.
+This is a repository containing MATLAB codes for the paper entitled, Nair and Taira, "Network-theoretic approach to sparsified discrete vortex dynamics", JFM, 2015. Please cite this work when using the codes.
 
 Main functions: 
 
